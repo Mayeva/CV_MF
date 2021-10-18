@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+# Maëva Fontaine
 
-You can use the [editor on GitHub](https://github.com/Mayeva/CV_MF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact 
+mfontaine@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**06 46 73 74 48**
 
-### Markdown
+## **Profil**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+30/06/2000
 
-```markdown
-Syntax highlighted code block
+41 rue Armand Carrel
+76000 Rouen 
 
-# Header 1
-## Header 2
-### Header 3
+Lycée Professionnel Elisa Lemonnier, 
+Petit-Quevilly 
 
-- Bulleted
-- List
+Baccalauréat Professionnel Métiers de la 
+Mode-Vêtements
+Mention bien
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Compétences 
+| Compétence|logiciel |
+|-------|--------|
+| CAO  | InDesign|
+| Word |Lectra|
+| Lectra| Illustrator|
+ 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Expérience
 
-### Jekyll Themes
+### **Berlu Couture** «Boutique de retouche», 
+_Romorantin-Lanthenay, 2017_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mayeva/CV_MF/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Gestion des clients 
 
-### Support or Contact
+*Retouche
+### **Fantaisy** «Boutique de retouche», 
+_Le Neubourg, 2017_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Gestion des clients 
+
+* Gestion des commandes
+
+* Gestion de commande client 
+et Mondial Relay
+
+
+### **Nocéa Création Mariage** «Création robe de mariée», 
+_Malaunay, 2018_
+
+* Création sur mesure 
+
+* Approvissionnement des produits
+
+### **Ternett** «Société de nettoyage», 
+_Val de Reuil, 2018_ 
+
+* Nettoyage des chambres et bureaux en 
+milieu hospitalier
+
+
+
+### **Poetic Market** «Design textile enfant»,
+ _Rouen, 2018_ 
+
+* Création et fabrication des produits
+
+* Gestion de la visibilité de la marque 
+
+### **Minimaki** «Design textile enfant», 
+Notre Dame de Bondeville, 2018
+
+* Gestion commande et expositions créateurs 
+
+* Approvissionnement et fabrications 
+des produits
+
+* Créations de nouveaux design textile
+
+* Vente du marché et site web
+
+### **Berthola Imprimerie** «Imprimerie Offset», 
+_Cavaillon, 2019_ 
+
+* Gestion de la chaine d’imprimerie 
+
+* Découpe et packaging pour la 
+livraison
+
+* Démarrage et éteindre la machine
+
+### **Leclerc** «Drive», 
+_Bapeaume-les-Rouen, 2020/2021_
+
+* Préparatrice commande
+
+* Livreuse de commande
+
+* Restockage préparation
