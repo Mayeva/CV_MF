@@ -34,9 +34,9 @@ Mention bien
 ### **Berlu Couture** «Boutique de retouche», 
 _Romorantin-Lanthenay, 2017_
 
-*Gestion des clients 
+* Gestion des clients 
 
-*Retouche
+* Retouche
 ### **Fantaisy** «Boutique de retouche», 
 _Le Neubourg, 2017_
 
