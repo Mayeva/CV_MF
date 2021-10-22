@@ -1,7 +1,7 @@
 # Maëva Fontaine
 
 ## Contact 
-mfontaine@gmail.com
+maeva.fontaine370@gmail.com
 
 **06 46 73 74 48**
 
@@ -31,21 +31,36 @@ Mention bien
 
 # Expérience
 
-### **Berlu Couture** «Boutique de retouche», 
-_Romorantin-Lanthenay, 2017_
+### **Leclerc** «Drive», 
+_Bapeaume-les-Rouen, 2020/2021_
 
-* Gestion des clients 
+* Préparatrice commande
 
-* Retouche
-### **Fantaisy** «Boutique de retouche», 
-_Le Neubourg, 2017_
+* Livreuse de commande
 
-* Gestion des clients 
+* Restockage préparation
 
-* Gestion des commandes
+### **Berthola Imprimerie** «Imprimerie Offset», 
+_Cavaillon, 2019_ 
 
-* Gestion de commande client 
-et Mondial Relay
+* Gestion de la chaine d’imprimerie 
+
+* Découpe et packaging pour la 
+livraison
+
+* Démarrage et éteindre la machine
+
+### **Minimaki** «Design textile enfant», 
+Notre Dame de Bondeville, 2018
+
+* Gestion commande et expositions créateurs 
+
+* Approvissionnement et fabrications 
+des produits
+
+* Créations de nouveaux design textile
+
+* Vente du marché et site web
 
 
 ### **Nocéa Création Mariage** «Création robe de mariée», 
@@ -62,7 +77,6 @@ _Val de Reuil, 2018_
 milieu hospitalier
 
 
-
 ### **Poetic Market** «Design textile enfant»,
  _Rouen, 2018_ 
 
@@ -70,33 +84,21 @@ milieu hospitalier
 
 * Gestion de la visibilité de la marque 
 
-### **Minimaki** «Design textile enfant», 
-Notre Dame de Bondeville, 2018
 
-* Gestion commande et expositions créateurs 
+### **Fantaisy** «Boutique de retouche», 
+_Le Neubourg, 2017_
 
-* Approvissionnement et fabrications 
-des produits
+* Gestion des clients 
 
-* Créations de nouveaux design textile
+* Gestion des commandes
 
-* Vente du marché et site web
+* Gestion de commande client 
+et Mondial Relay
+ 
+* ### **Berlu Couture** «Boutique de retouche», 
+_Romorantin-Lanthenay, 2017_
 
-### **Berthola Imprimerie** «Imprimerie Offset», 
-_Cavaillon, 2019_ 
+* Gestion des clients 
 
-* Gestion de la chaine d’imprimerie 
+* Retouche
 
-* Découpe et packaging pour la 
-livraison
-
-* Démarrage et éteindre la machine
-
-### **Leclerc** «Drive», 
-_Bapeaume-les-Rouen, 2020/2021_
-
-* Préparatrice commande
-
-* Livreuse de commande
-
-* Restockage préparation
